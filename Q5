@@ -6,8 +6,8 @@ Input
 2  2
 8  7
 2
-2  4
-3  4
+3  3
+4  4
 
 When the key doesnt exist in data1, the hey_value pair is not added to it
 
@@ -26,6 +26,7 @@ if k in dat1:
 5c)
 Test Case 1
 
+4
 1  2
 3  3
 3  8
@@ -34,3 +35,23 @@ Test Case 1
 3  3
 4  4
 
+Test Case 2
+
+4
+1  2
+2  2
+3  3
+4  19
+2
+3  3
+4  19
+
+Test Case 3
+
+3
+1  2
+2  2
+8  7
+2
+3  3
+4  4
