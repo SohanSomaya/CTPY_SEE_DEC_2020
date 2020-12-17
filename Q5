@@ -13,7 +13,7 @@ When the key doesnt exist in data1, the hey_value pair is not added to it
 
 
 5b)
-if k in dat1;
+if k in dat1:
   v=data1[k]
   if v1!=v2:
     dupkey[k]=[v1,v2]
